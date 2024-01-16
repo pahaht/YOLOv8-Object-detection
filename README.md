@@ -1,6 +1,9 @@
 # YOLOv8-Object-detection
 
-![alt text]( https://github.com/pahaht/YOLOv8-Object-detection/main/Images/cars-detection.avi)  
+![alt text](https://github.com/pahaht/YOLOv8-Object-detection/tree/main/Images/cars2.avi)  
+
+
+
 
 ### *Overview*
 This repository focuses on object detection using YOLOv8, a state-of-the-art deep learning model. 
