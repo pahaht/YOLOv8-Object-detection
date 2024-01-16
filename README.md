@@ -2,6 +2,11 @@
 
 (https://github.com/pahaht/YOLOv8-Object-detection/tree/main/Images/car2.avi)
 
+<video width="100%" height="auto" controls autoplay>
+  <source src="https://github.com/pahaht/YOLOv8-Object-detection/tree/main/Images/cars-detection" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ### *Overview*
