@@ -1,7 +1,6 @@
 # YOLOv8-Object-detection
 
-![alt text](https://github.com/pahaht/YOLOv8-Object-detection/tree/main/Images/cars-detection.mp4)  
-
+[Watch the Video](https://github.com/pahaht/YOLOv8-Object-detection/tree/main/Images/cars-detection.mp4)
 
 
 
