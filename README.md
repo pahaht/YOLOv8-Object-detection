@@ -1,7 +1,7 @@
 # YOLOv8-Object-detection
 
 <video width="100%" height="auto" controls autoplay>
-  <source src="YOLOv8-Object-detection/tree/main/Images/cars-detection" type="video/mp4">
+  <source src="YOLOv8-Object-detection/tree/main/Images/cars-detection.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
