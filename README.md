@@ -1,8 +1,9 @@
 # YOLOv8-Object-detection
 
 
+![alt text]( https://github.com/pahaht/YOLOv8-Fall-detection/blob/main/Images/instance-seg.JPG![image](https://github.com/pahaht/YOLOv8-Object-detection/assets/116424869/83bea6cf-a0b4-48d4-b713-3524eff7a0c3)
 
-<iframe width="560" height="315" src="https://github.com/pahaht/YOLOv8-Object-detection/tree/main/Images/instance-segmentation2.avi.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 
 
