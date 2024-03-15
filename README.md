@@ -1,7 +1,7 @@
 # YOLOv8-Object-detection
 
 
-![alt text]( https://github.com/pahaht/YOLOv8-Fall-detection/blob/main/Images/instance-seg.JPG)
+![alt text]( https://github.com/pahaht/YOLOv8-Object-detection/blob/main/Images/instance-seg.JPG)
 
 
 
